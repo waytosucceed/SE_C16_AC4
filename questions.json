@@ -1,0 +1,57 @@
+[
+  {
+    "questionNo": "Q1",
+    "question": "Round 5.9995 to the nearest thousandth.",
+    "options": [
+      "5.999",
+      "6.000",
+      "5.9995",
+      "6.001"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q2",
+    "question": "Evaluate the following expression: <br><img width='90%' src='./assests/images/1.png'>",
+    "options": [
+      "./assests/optionImg/13.jpg",
+      "./assests/optionImg/14.jpg",
+      "./assests/optionImg/15.jpg",
+      "./assests/optionImg/13.jpg"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q3",
+    "question": "In an election, four candidates received the following number of votes:<br> 526, 1132, 5432, and 2400. What percentage of the total votes did the winning candidate receive (round off to nearest integer)?",
+    "options": [
+      "45%",
+      "50%",
+      "57%",
+      "60%"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q4",
+    "question": "In the prices below, each shape represents a missing digit.<br> $45.▢9 and $48.3▢. <br>What is the greatest possible difference between the prices?",
+    "options": [
+      "$2.91",
+      "$3.00",
+      "$3.01",
+      "$3.30"
+    ],
+    "correct": 3
+  },
+  {
+    "questionNo": "Q5",
+    "question": "A bookstore orders books for a total of $200. Due to a surge in interest for a particular genre, the price of the books increases by 10%. After adjusting for the price increase, the bookstore benefits from a promotional discount of 25% on the new price. What is the final amount the bookstore pays?",
+    "options": [
+      "$150",
+      "$165",
+      "$180",
+      "$225"
+    ],
+    "correct": 1
+  }
+]
